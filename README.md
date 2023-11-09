@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ###OUTPUT
 
-![Category Filter](op/category filter.png)
+![Category Filter](op/main scrren.png)
 ![Color Filter](op/color filter.png)
 ![Main Screen](op/main screen.png)
 ![Search Filter](op/search filter.png)
